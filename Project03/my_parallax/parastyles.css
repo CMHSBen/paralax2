@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body, html {
+    height: 100%;
+    margin: auto;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1
+	
+}
+
+
+
+
+.parallax1 {
+  background-image: url("giraff1.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax2 {
+  background-image: url("giraff2.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax3 {
+  background-image: url("giraff3.jpg");
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax4 {
+  background-image: url()
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+	
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body div h1 {
+}
